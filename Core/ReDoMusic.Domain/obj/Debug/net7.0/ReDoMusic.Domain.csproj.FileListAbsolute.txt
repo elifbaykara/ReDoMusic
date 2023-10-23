@@ -1,0 +1,13 @@
+C:\Users\elif\Documents\GitHub\ReDoMusic\Core\ReDoMusic.Domain\bin\Debug\net7.0\ReDoMusic.Domain.deps.json
+C:\Users\elif\Documents\GitHub\ReDoMusic\Core\ReDoMusic.Domain\bin\Debug\net7.0\ReDoMusic.Domain.dll
+C:\Users\elif\Documents\GitHub\ReDoMusic\Core\ReDoMusic.Domain\bin\Debug\net7.0\ReDoMusic.Domain.pdb
+C:\Users\elif\Documents\GitHub\ReDoMusic\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\Documents\GitHub\ReDoMusic\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.AssemblyInfoInputs.cache
+C:\Users\elif\Documents\GitHub\ReDoMusic\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.AssemblyInfo.cs
+C:\Users\elif\Documents\GitHub\ReDoMusic\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elif\Documents\GitHub\ReDoMusic\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.dll
+C:\Users\elif\Documents\GitHub\ReDoMusic\Core\ReDoMusic.Domain\obj\Debug\net7.0\refint\ReDoMusic.Domain.dll
+C:\Users\elif\Documents\GitHub\ReDoMusic\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.pdb
+C:\Users\elif\Documents\GitHub\ReDoMusic\Core\ReDoMusic.Domain\obj\Debug\net7.0\ref\ReDoMusic.Domain.dll
+C:\Users\elif\Documents\GitHub\ReDoMusic\Core\ReDoMusic.Domain\bin\Debug\net7.0\ReDoMusic.Domain.runtimeconfig.json
+C:\Users\elif\Documents\GitHub\ReDoMusic\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.genruntimeconfig.cache
